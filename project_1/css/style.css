@@ -1072,6 +1072,7 @@ body, html {
     left: 24px;
     width: 22px;
     height: 40px;
+    font-size: 0;
     z-index: 99;
     background: url("../img/.icon-left.png") no-repeat transparent;
     border: none;
@@ -1082,6 +1083,7 @@ body, html {
     left: 577px;
     width: 22px;
     height: 40px;
+    font-size: 0;
     z-index: 99;
     background: url("../img/.icon-right.png") no-repeat transparent;
     border: none;
