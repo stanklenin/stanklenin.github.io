@@ -1912,7 +1912,7 @@ body, html {
     width: 21px;
     height: 21px;
     font-size: 0;
-    background: url("../img/Red-cross.png") no-repeat transparent; 
+    background: url("../img/red-cross.png") no-repeat transparent; 
     border: none;
     cursor: pointer;
 }
