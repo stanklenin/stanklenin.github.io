@@ -1,0 +1,29 @@
+.container {
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.main-title {
+    text-align: center;
+    font-family: "Questrial", sans-serif;
+}
+.project {
+    float: left;
+    position: relative;
+    margin-right: 20px;
+    margin-left: 5px;
+    width: 265px;
+}
+.project-img img {
+    border-radius: 5px; 
+}
+.project-img img:hover {
+    box-shadow: 0 2px 10px 5px rgba(0, 0, 0, 0.2);
+}
+.project-img img:active {
+    opacity: 0.5;
+}
+.project-name {
+    font-family: "Questrial", sans-serif;
+    font-size: 21px;
+}
