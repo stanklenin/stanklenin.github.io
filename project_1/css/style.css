@@ -1074,7 +1074,7 @@ body, html {
     height: 40px;
     font-size: 0;
     z-index: 99;
-    background: url("../img/.icon-left.png") no-repeat transparent;
+    background: url("../img/left.png") no-repeat transparent;
     border: none;
 }
 .slider-btn-next {
@@ -1085,7 +1085,7 @@ body, html {
     height: 40px;
     font-size: 0;
     z-index: 99;
-    background: url("../img/.icon-right.png") no-repeat transparent;
+    background: url("../img/right.png") no-repeat transparent;
     border: none;
 }
 .product {
