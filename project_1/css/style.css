@@ -514,7 +514,7 @@ body, html {
     left: 29px;
     width: 8px;
     height: 13px;
-    background: url("../img/breadcrumbs-right.png") no-repeat transparent;   
+    background: url("../img/breadcrumbs-right.png") no-repeat;   
 }
 .breadcrumbs-item:nth-child(2) .breadcrumbs-link::after {
     content: "";
@@ -523,7 +523,7 @@ body, html {
     left: 122px;
     width: 8px;
     height: 13px;
-    background: url("../img/breadcrumbs-right.png") no-repeat transparent;   
+    background: url("../img/breadcrumbs-right.png") no-repeat;   
 }
 .breadcrumbs-item:nth-child(3) .breadcrumbs-link::after {
     content: "";
@@ -532,7 +532,7 @@ body, html {
     left: 244px;
     width: 8px;
     height: 13px;
-    background: url("../img/breadcrumbs-right.png") no-repeat transparent;   
+    background: url("../img/breadcrumbs-right.png") no-repeat;   
 }
 .catalog-title {
     width: 100%;
